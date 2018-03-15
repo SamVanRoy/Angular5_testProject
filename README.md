@@ -1,3 +1,13 @@
+##Githubpages
+
+npm i -g angular-cli-ghpages
+ng build --prod --base-href="https://YOURUSERNAME.github.io/REPO-NAME/"
+(ng build --prod --base-href="https://samvanroy.github.io/Angular5_testProject/")
+angular-cli-ghpages
+
+Go to https://samvanroy.github.io/Angular5_testProject/ to see project.
+
+
 # Ng5
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
